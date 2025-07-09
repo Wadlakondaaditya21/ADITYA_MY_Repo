@@ -1,0 +1,8 @@
+pandas 
+scikit-learn
+joblib
+
+
+
+train-model:
+runs-on:ubuntu-latest
